@@ -17,3 +17,8 @@ artifacts/
 # OS
 .DS_Store
 Thumbs.db
+
+# Remix auto-generated files
+.deps/
+.states/
+artifacts/
