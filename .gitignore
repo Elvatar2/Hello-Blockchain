@@ -22,3 +22,16 @@ Thumbs.db
 .deps/
 .states/
 artifacts/
+# Foundry
+out/
+cache/
+# Foundry executables
+bin/
+forge
+foundryup
+
+# Foundry build
+out/
+# Dependencies (auto-downloaded)
+lib/
+node_modules/
