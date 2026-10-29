@@ -10,7 +10,7 @@ To run this project, you need to have [Foundry](https://book.getfoundry.sh/getti
 
 1. Clone the repository:
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/Elvatar2/Hello-Blockchain>
 cd Hello-Blockchain
 ```
 
